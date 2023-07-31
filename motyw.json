@@ -15,7 +15,7 @@
           "#005552"
       ],
       "TEXT_NORMAL": [
-          "#FFE8FE"
+          "#e3faf9"
       ],
       "TEXT_MUTED": [
           "#5E5E5E"
@@ -30,7 +30,7 @@
           "#7BB0AF"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#FDC5FA"
+          "#bef7f5"
       ],
       "INTERACTIVE_MUTED": [
           "#436160" 
@@ -136,6 +136,10 @@
       "YELLOW_300": "#67dbd9",
       "GREEN_360": "#67dbd9",
       "RED_400": "#FC0E61"
+      "ORANGE_345": "#003634"
+      "RED_560": "#005c59"
+      "GREEN_345": "#09e6de"
+      "BLUE_345": "#00ada8"
 },
     "spec": 2,
     "background": {
