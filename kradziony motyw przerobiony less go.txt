@@ -1,6 +1,6 @@
 {
-    "name": "PurpDark V3",
-    "description": "Same theme but with background! - Purpdark",
+    "name": "Totalnie Legitnie Zrobiony Motyw",
+    "description": "Giga W (ten motyw wcale nie jest kradziony)",
     "authors": [
         {
             "name": "@moordex",
