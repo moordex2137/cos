@@ -1,0 +1,152 @@
+{
+    "name": "Totalnie Legitnie Zrobiony Motyw",
+    "description": "Giga W (ten motyw wcale nie jest kradziony)",
+    "authors": [
+        {
+            "name": "@moordex",
+            "id": "525363740347072552"
+        }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMARY": [
+          "#005552"
+      ],
+      "HEADER_SECONDARY": [
+          "#005552"
+      ],
+      "TEXT_NORMAL": [
+          "#e3faf9"
+      ],
+      "TEXT_MUTED": [
+          "#5E5E5E"
+      ],
+      "TEXT_LINK": [
+          "#00BFB9"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#65B5B3"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#7BB0AF"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#bef7f5"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#436160" 
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#282828"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#222222"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#222222"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#282828"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#486E6C"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#222222"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#222222"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#222222"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+          "#222222"
+      ],
+     
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#292929"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#292929"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#417A78"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#417A78"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#484848"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+          "#26273b"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+          "transparent"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+          "#AED4D2"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+          "#AED4D2"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+          "#242424"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#719998"
+      ],
+      "TEXT_DANGER": [
+          "#FC0E61"
+      ],
+      "KEYBOARD": [
+          "#282828"
+      ],
+      "CHANNEL_ICON": [
+          "#ACBFBF"
+      ],
+      "CHAT_BACKGROUND": [
+          "#282828"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+        "#4B4B4B"
+      ],
+      "SPOILER_REVEALED_BACKGROUND": [
+        "#5E5E5E"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_100": "#d4faf9",
+      "PRIMARY_200": "#739190",
+      "PRIMARY_300": "#71d1ce",
+      "PRIMARY_360": "#6fede9",
+      "PRIMARY_400": "#139feb",
+      "PRIMARY_500": "#386b69",
+      "PRIMARY_600": "#282828",
+      "PRIMARY_630": "#2F2F2F",
+      "PRIMARY_660": "#2F2F2F",
+      "PRIMARY_700": "#282828",
+      "PRIMARY_800": "#282828",
+  
+      "BRAND_260": "#5d8f8d",
+      "BRAND_360": "#93ccca",
+      "BRAND_500": "#5e9190",
+      "BRAND_560": "#93cccb",
+      "WHITE_500": "#befaf9",
+      "YELLOW_300": "#67dbd9",
+      "GREEN_360": "#67dbd9",
+      "RED_400": "#FC0E61"
+      "ORANGE_345": "#003634"
+      "RED_560": "#005c59"
+      "GREEN_345": "#09e6de"
+      "BLUE_345": "#00ada8"
+},
+    "spec": 2,
+    "background": {
+      "blur": 0,
+      "url": "https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/PurpDark_BG/background.jpg",
+      "alpha": 0.9,
+      "color": "#282828"
+  
+    }
+}
