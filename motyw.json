@@ -1,0 +1,153 @@
+{
+    "name": "Totalnie Legitnie Zrobiony Motyw 2",
+    "description": "Giga W - Wersja czerwona na zamówienie do bartuwusia",
+    "authors": [
+        {
+            "name": "@moordex",
+            "id": "525363740347072552"
+        }
+    ],
+    "semanticColors": {
+      "HEADER_PRIMARY": [
+          "#fc0303"
+      ],
+      "HEADER_SECONDARY": [
+          "#fc0303"
+      ],
+      "TEXT_NORMAL": [
+          "#f5dfdf"
+      ],
+      "TEXT_MUTED": [
+          "#5E5E5E"
+      ],
+      "TEXT_LINK": [
+          "#ba0000"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#b56565"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#ad7979"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#f5bcbc"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#614343" 
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#282828"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#222222"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#222222"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#282828"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#6b4646"
+      ],
+      "BACKGROUND_FLOATING": [
+          "#222222"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#222222"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#222222"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+          "#222222"
+      ],
+     
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#292929"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#292929"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#784040"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#784040"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#484848"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+          "#362222"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+          "transparent"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+          "#d1abab"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+          "#d1abab"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+          "#242424"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#966f6f"
+      ],
+      "TEXT_DANGER": [
+          "#FC0E61"
+      ],
+      "KEYBOARD": [
+          "#282828"
+      ],
+      "CHANNEL_ICON": [
+          "#bfacac"
+      ],
+      "CHAT_BACKGROUND": [
+          "#282828"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+        "#4B4B4B"
+      ],
+      "SPOILER_REVEALED_BACKGROUND": [
+        "#5E5E5E"
+      ]
+  },
+  "rawColors": {
+      "PRIMARY_100": "#f7d2d4",
+      "PRIMARY_200": "#917374",
+      "PRIMARY_300": "#d17174",
+      "PRIMARY_360": "#ed6d71",
+      "PRIMARY_400": "#eb1313",
+      "PRIMARY_500": "#6b3838",
+      "PRIMARY_600": "#282828",
+      "PRIMARY_630": "#2F2F2F",
+      "PRIMARY_660": "#2F2F2F",
+      "PRIMARY_700": "#282828",
+      "PRIMARY_800": "#282828",
+  
+      "BRAND_260": "#8f5d5d",
+      "BRAND_360": "#cc9393",
+      "BRAND_500": "#915e5e",
+      "BRAND_560": "#cc9393",
+      "WHITE_500": "#fabebe",
+      "YELLOW_300": "#db6767",
+      "GREEN_360": "#db6767",
+      "RED_400": "#FC0E61",
+      "ORANGE_345": "#ff0000",
+      "RED_560": "#ff3333",
+      "GREEN_345": "#ff8282",
+      "BLUE_345": "#ff5e5e"
+
+},
+    "spec": 2,
+    "background": {
+      "blur": 0,
+      "url": "https://raw.githubusercontent.com/vorlie/VendettaThemes/main/Purpdark/PurpDark_BG/background.jpg",
+      "alpha": 0.9,
+      "color": "#282828"
+  
+    }
+}
